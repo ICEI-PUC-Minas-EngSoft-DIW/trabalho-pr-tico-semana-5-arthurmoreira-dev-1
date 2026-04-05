@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: steelblue;
+  padding: 15px;
+}
+
+/* FORM */
+.search input {
+  padding: 5px;
+}
+
+.search button {
+  padding: 5px;
+}
+
+/* MENU LATERAL */
+.menu {
+  position: fixed;
+  top: 80px;
+  left: 0;
+  width: 200px;
+  background: steelblue;
+  padding: 20px;
+  height: 300px;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* MAIN */
+.main {
+  margin-left: 220px;
+  padding: 20px;
+}
+
+/* BANNER */
+.banner img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+/* GRID DE CARDS */
+.grid {
+  display: flex;
+  gap: 20px;
+}
+
+/* CARDS */
+.card {
+  width: 200px;
+  padding: 10px;
+  background: steelblue;
+}
+
+.card img {
+  width: 100%;
+}
+
+/* FOOTER */
+.footer {
+  background: steelblue;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+}
