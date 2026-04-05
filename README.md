@@ -9,8 +9,8 @@
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-![Desktop](public/print-desktop.png)
+![Desktop](print-desktop.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE]
 
-![Mobile](public/print-mobile.png)
+![Mobile](print-mobile.png)
